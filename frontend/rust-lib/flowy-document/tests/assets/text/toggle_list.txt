@@ -1,0 +1,3 @@
+Click ? no canto inferior direito para obter ajuda.
+This is a paragraph
+This is a toggle list

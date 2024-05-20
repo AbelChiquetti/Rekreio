@@ -1,8 +1,8 @@
 {
   "appName": "Rekreio",
   "defaultUsername": "Eu",
-  "welcomeText": "Bem-vindo ao @:appName",
-  "welcomeTo": "Bem-vindo ao",
+  "welcomeText": "Bem-vindo à @:appName",
+  "welcomeTo": "Bem-vindo à",
   "githubStarText": "Dar uma estrela no Github",
   "subscribeNewsletterText": "Inscreva-se para receber novidades",
   "letsGoButtonText": "Vamos lá",

@@ -191,7 +191,7 @@ class GitHubRedirectButton extends StatelessWidget {
     return FlowyButton(
       leftIconSize: const Size.square(_height),
       text: const FlowyText(
-        "AppFlowy",
+        "Rekreio",
       ),
       useIntrinsicWidth: true,
       leftIcon: const Padding(

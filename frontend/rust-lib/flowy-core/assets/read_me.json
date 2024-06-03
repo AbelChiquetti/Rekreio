@@ -82,7 +82,7 @@
       "data": {
         "delta": [
           { "insert": "Click " },
-          { "attributes": { "code": true }, "insert": "+ New Page " },
+          { "attributes": { "code": true }, "insert": "+ Nova Página " },
           {
             "insert": "button at the bottom of your sidebar to add a new page."
           }
@@ -183,7 +183,7 @@
       "type": "quote",
       "data": {
         "delta": [
-          { "insert": "Click " },
+          { "insert": "Clique " },
           { "attributes": { "code": true }, "insert": "?" },
           { "insert": " no canto inferior direito para obter ajuda." }
         ]

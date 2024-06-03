@@ -72,8 +72,8 @@
           "type": "text",
           "attributes": { "subtype": "checkbox", "checkbox": true },
           "delta": [
-            { "insert": "Click " },
-            { "insert": "+ New Page ", "attributes": { "code": true } },
+            { "insert": "Clique " },
+            { "insert": "+ Nova Página ", "attributes": { "code": true } },
             {
               "insert": "button at the bottom of your sidebar to add a new page."
             }
@@ -187,7 +187,7 @@
           "type": "text",
           "attributes": { "subtype": "quote" },
           "delta": [
-            { "insert": "Click " },
+            { "insert": "Clique " },
             { "insert": "?", "attributes": { "code": true } },
             { "insert": " no canto inferior direito para obter ajuda." }
           ]

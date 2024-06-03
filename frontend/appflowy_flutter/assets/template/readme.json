@@ -26,33 +26,33 @@
               "insert": "Highlight ",
               "attributes": { "backgroundColor": "0x4dffeb3b" }
             },
-            { "insert": "any text, and use the editing menu to " },
-            { "insert": "style", "attributes": { "italic": true } },
+            { "insert": "qualquer texto e utilizar o menu de edição para " },
+            { "insert": "estilizar", "attributes": { "italic": true } },
             { "insert": " " },
-            { "insert": "your", "attributes": { "bold": true } },
+            { "insert": "seu", "attributes": { "bold": true } },
             { "insert": " " },
-            { "insert": "writing", "attributes": { "underline": true } },
+            { "insert": "texto", "attributes": { "underline": true } },
             { "insert": " " },
-            { "insert": "however", "attributes": { "code": true } },
-            { "insert": " you " },
-            { "insert": "like.", "attributes": { "strikethrough": true } }
+            { "insert": "sempre", "attributes": { "code": true } },
+            { "insert": " que você " },
+            { "insert": "quiser.", "attributes": { "strikethrough": true } }
           ]
         },
         {
           "type": "text",
           "attributes": { "subtype": "checkbox", "checkbox": null },
           "delta": [
-            { "insert": "As soon as you type " },
+            { "insert": "Sempre que colocar uma " },
             {
               "insert": "/",
               "attributes": { "code": true, "color": "0xff00b5ff" }
             },
-            { "insert": " a menu will pop up. Select " },
+            { "insert": " é apresentado um menu. Selecione " },
             {
-              "insert": "different types",
+              "insert": "diferentes tipos",
               "attributes": { "backgroundColor": "0x4d9c27b0" }
             },
-            { "insert": " of content blocks you can add." }
+            { "insert": " de blocos de conteúdo." }
           ]
         },
         {
@@ -65,7 +65,7 @@
             { "insert": "/bullet", "attributes": { "code": true } },
             { "insert": " or " },
             { "insert": "/num", "attributes": { "code": true } },
-            { "insert": " to create a list.", "attributes": { "code": false } }
+            { "insert": " para criar uma lista.", "attributes": { "code": false } }
           ]
         },
         {
@@ -73,7 +73,7 @@
           "attributes": { "subtype": "checkbox", "checkbox": true },
           "delta": [
             { "insert": "Click " },
-            { "insert": "+ New Page", "attributes": { "code": true } },
+            { "insert": "+ Nova Página", "attributes": { "code": true } },
             {
               "insert": " na parte inferior da barra lateral para adicionar uma nova página."
             }
@@ -83,16 +83,16 @@
           "type": "text",
           "attributes": { "subtype": "checkbox", "checkbox": null },
           "delta": [
-            { "insert": "Click " },
+            { "insert": "Clique " },
             { "insert": "+", "attributes": { "code": true } },
-            { "insert": " next to any page title in the sidebar to " },
-            { "insert": "quickly", "attributes": { "color": "0xff8427e0" } },
-            { "insert": " add a new subpage, " },
-            { "insert": "Document", "attributes": { "code": true } },
+            { "insert": " ao lado de qualquer título de página na barra lateral para " },
+            { "insert": "adicionar rapidamente", "attributes": { "color": "0xff8427e0" } },
+            { "insert": " uma nova subpágina, " },
+            { "insert": "Documento", "attributes": { "code": true } },
             { "insert": ", ", "attributes": { "code": false } },
             { "insert": "Grid", "attributes": { "code": true } },
             { "insert": ", or ", "attributes": { "code": false } },
-            { "insert": "Kanban Board", "attributes": { "code": true } },
+            { "insert": "Kanban", "attributes": { "code": true } },
             { "insert": ".", "attributes": { "code": false } }
           ]
         },
@@ -168,7 +168,7 @@
           },
           "delta": [
             {
-              "insert": "// This is the main function.\nfn main() {\n    // Print text to the console.\n    println!(\"Hello World!\");\n}"
+              "insert": "// Esta é a função principal.\nfn main() {\n    // Print text to the console.\n    println!(\"Hello World!\");\n}"
             },
             { "retain": 1, "attributes": { "strikethrough": true } }
           ]

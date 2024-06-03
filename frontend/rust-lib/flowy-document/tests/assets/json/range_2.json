@@ -73,7 +73,7 @@
       "data": {
         "delta": [
           { "insert": "Click " },
-          { "attributes": { "code": true }, "insert": "+ New Page " },
+          { "attributes": { "code": true }, "insert": "+ Nova Página " },
           {
             "insert": "button at the bottom of your sidebar to add a new page."
           }

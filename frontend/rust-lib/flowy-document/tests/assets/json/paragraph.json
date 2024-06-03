@@ -28,7 +28,7 @@
         "type": "paragraph",
         "data": {
           "delta": [
-            { "insert": "Click " },
+            { "insert": "Clique " },
             { "attributes": { "code": true }, "insert": "?" },
             { "insert": " no canto inferior direito para obter ajuda." }
           ]

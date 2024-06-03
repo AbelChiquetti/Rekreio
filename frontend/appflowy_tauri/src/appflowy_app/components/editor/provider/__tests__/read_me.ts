@@ -380,7 +380,7 @@ export default {
     '6okS7LcJz6': [],
     mAce5pJ5iN: [],
     aRUJ8rTJR9: [
-      { insert: 'Click ' },
+      { insert: 'Clique ' },
       { insert: '?', attributes: { code: true } },
       { insert: ' no canto inferior direito para obter ajuda.' },
     ],
@@ -404,7 +404,7 @@ export default {
     CxPil0324P: [{ insert: 'Clique em qualquer lugar para começar a digitar.' }],
     'i-7TRjZWn4': [
       { insert: 'Click ' },
-      { insert: '+ New Page ', attributes: { code: true } },
+      { insert: '+ Nova Página ', attributes: { code: true } },
       { insert: 'button at the bottom of your sidebar to add a new page.' },
     ],
   },
